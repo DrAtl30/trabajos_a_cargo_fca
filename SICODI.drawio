@@ -131,7 +131,7 @@
           <mxGeometry x="1200" y="128" width="460" height="1932" as="geometry" />
         </mxCell>
         <mxCell id="5J1f-jiPpOXVaAHq2X4_-76" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="TSnaIQm4iTl3TKL8E2NF-31" vertex="1">
-          <mxGeometry x="180" y="1842" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="1792" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TSnaIQm4iTl3TKL8E2NF-32" value="11. El participante recibe su documento. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TSnaIQm4iTl3TKL8E2NF-31">
           <mxGeometry x="170" y="1662" width="145" height="60" as="geometry" />
