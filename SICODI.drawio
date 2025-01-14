@@ -43,7 +43,7 @@
         <mxCell id="5J1f-jiPpOXVaAHq2X4_-44" value="&lt;div&gt;6.&lt;/div&gt;&lt;div&gt;Solicitar firma y sello electrónico&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
           <mxGeometry x="170" y="652" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5J1f-jiPpOXVaAHq2X4_-45" value="&lt;div&gt;8.&lt;/div&gt;Enviar correo electrónico de plantillas para confirmar las plantillas para su firma y sello electrónico" style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
+        <mxCell id="5J1f-jiPpOXVaAHq2X4_-45" value="&lt;div&gt;8.&lt;/div&gt;Enviar correo electrónico para solicitar firma y sello electrónico." style="rounded=0;whiteSpace=wrap;html=1;" parent="3" vertex="1">
           <mxGeometry x="137.75" y="802" width="164.5" height="78" as="geometry" />
         </mxCell>
         <mxCell id="5J1f-jiPpOXVaAHq2X4_-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.412;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3" source="5J1f-jiPpOXVaAHq2X4_-43" target="5J1f-jiPpOXVaAHq2X4_-44" edge="1">
@@ -87,7 +87,7 @@
         <mxCell id="5J1f-jiPpOXVaAHq2X4_-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="4" source="5J1f-jiPpOXVaAHq2X4_-53" target="5J1f-jiPpOXVaAHq2X4_-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5J1f-jiPpOXVaAHq2X4_-53" value="&lt;div&gt;10.3&lt;/div&gt;&lt;div&gt;Firma y sello&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="4" vertex="1">
+        <mxCell id="5J1f-jiPpOXVaAHq2X4_-53" value="&lt;div&gt;10.3&lt;/div&gt;&lt;div&gt;Firma y sello&lt;/div&gt;&amp;nbsp;electrónico." style="rounded=0;whiteSpace=wrap;html=1;" parent="4" vertex="1">
           <mxGeometry x="272.5" y="1582" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5J1f-jiPpOXVaAHq2X4_-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="4" source="5J1f-jiPpOXVaAHq2X4_-54" target="5J1f-jiPpOXVaAHq2X4_-55" edge="1">
