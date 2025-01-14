@@ -145,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TSnaIQm4iTl3TKL8E2NF-33" value="Documento puede ser: Constancias, Nombramiento, Cumplimiento, entre otros." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="1669" y="1770" width="170" height="120" as="geometry" />
+          <mxGeometry x="1550" y="1690" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TSnaIQm4iTl3TKL8E2NF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5J1f-jiPpOXVaAHq2X4_-53" target="TSnaIQm4iTl3TKL8E2NF-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
