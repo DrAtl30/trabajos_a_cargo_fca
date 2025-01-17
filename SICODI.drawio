@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.5">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="4840" dy="2656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1424" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="5J1f-jiPpOXVaAHq2X4_-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2" source="fzZ7-fXXEc63i02S0-_m-44" target="fzZ7-fXXEc63i02S0-_m-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fzZ7-fXXEc63i02S0-_m-44" value="&lt;div align=&quot;center&quot;&gt;1.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Accede al sistema SICODI como: Correo y contraseña institucional&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+        <mxCell id="fzZ7-fXXEc63i02S0-_m-44" value="&lt;div align=&quot;center&quot;&gt;1.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Accede al sistema SICODI&amp;nbsp; Correo y contraseña institucional&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2" vertex="1">
           <mxGeometry x="65.57" y="172" width="188.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5J1f-jiPpOXVaAHq2X4_-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2" source="fzZ7-fXXEc63i02S0-_m-46" target="5J1f-jiPpOXVaAHq2X4_-41" edge="1">
@@ -171,7 +171,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSnaIQm4iTl3TKL8E2NF-32" value="&lt;div&gt;11.&amp;nbsp;&lt;/div&gt;&lt;div&gt;El participante recibe su documento a través del correo electrónico. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="TSnaIQm4iTl3TKL8E2NF-31" vertex="1">
+        <mxCell id="TSnaIQm4iTl3TKL8E2NF-32" value="&lt;div&gt;11.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Recibe su documento a través del correo electrónico. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="TSnaIQm4iTl3TKL8E2NF-31" vertex="1">
           <mxGeometry x="127.5" y="1662" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gqnUmsEZRy-foJ-LfT6I-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="TSnaIQm4iTl3TKL8E2NF-31" source="TSnaIQm4iTl3TKL8E2NF-33" target="TSnaIQm4iTl3TKL8E2NF-32" edge="1">
@@ -183,7 +183,7 @@
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TSnaIQm4iTl3TKL8E2NF-31" source="4OVdlOTqd-Aykf6GKvNd-5" target="5J1f-jiPpOXVaAHq2X4_-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-5" value="&lt;div&gt;11. 1.A&lt;br&gt;&lt;/div&gt;&lt;div&gt;El participante visualiza el documento emitido a su nombre&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TSnaIQm4iTl3TKL8E2NF-31">
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-5" value="&lt;div&gt;11. 1.A&lt;br&gt;&lt;/div&gt;&lt;div&gt;Visualiza el documento emitido a su nombre.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TSnaIQm4iTl3TKL8E2NF-31">
           <mxGeometry x="200" y="1792" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.559;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TSnaIQm4iTl3TKL8E2NF-31" source="TSnaIQm4iTl3TKL8E2NF-32" target="4OVdlOTqd-Aykf6GKvNd-5">
@@ -192,19 +192,19 @@
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TSnaIQm4iTl3TKL8E2NF-31" source="4OVdlOTqd-Aykf6GKvNd-4" target="4OVdlOTqd-Aykf6GKvNd-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-4" value="&lt;div&gt;11. 1.B&lt;br&gt;&lt;/div&gt;&lt;div&gt;Participante recibe correo electrónico para acceder como &quot;Beneficiario&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TSnaIQm4iTl3TKL8E2NF-31">
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-4" value="&lt;div&gt;11. 1.B&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibe correo electrónico para acceder como &quot;Beneficiario&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TSnaIQm4iTl3TKL8E2NF-31">
           <mxGeometry x="30" y="1872" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TSnaIQm4iTl3TKL8E2NF-31" source="4OVdlOTqd-Aykf6GKvNd-19" target="4OVdlOTqd-Aykf6GKvNd-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-19" value="&lt;div&gt;11. 1.B.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;Participante accede al sistema con las credenciales proporcionadas&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TSnaIQm4iTl3TKL8E2NF-31">
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-19" value="&lt;div&gt;11. 1.B.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;Accede al sistema con las credenciales proporcionadas&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TSnaIQm4iTl3TKL8E2NF-31">
           <mxGeometry x="30" y="1982" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TSnaIQm4iTl3TKL8E2NF-31" source="4OVdlOTqd-Aykf6GKvNd-33" target="5J1f-jiPpOXVaAHq2X4_-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-33" value="&lt;div&gt;11. 1.B.2&lt;br&gt;&lt;/div&gt;&lt;div&gt;Participante visualiza el/los documento(s) emitidos a su nombre.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TSnaIQm4iTl3TKL8E2NF-31">
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-33" value="&lt;div&gt;11. 1.B.2&lt;br&gt;&lt;/div&gt;&lt;div&gt;Visualiza el/los documento(s) emitidos a su nombre.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TSnaIQm4iTl3TKL8E2NF-31">
           <mxGeometry x="30" y="2092" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TSnaIQm4iTl3TKL8E2NF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5J1f-jiPpOXVaAHq2X4_-53" target="TSnaIQm4iTl3TKL8E2NF-32" edge="1">
@@ -228,7 +228,7 @@
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-55" source="4OVdlOTqd-Aykf6GKvNd-59" target="4OVdlOTqd-Aykf6GKvNd-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-59" value="&lt;div align=&quot;center&quot;&gt;1.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Accede al sistema SICODI como: Correo y contraseña institucional&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-55">
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-59" value="&lt;div align=&quot;center&quot;&gt;1.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Accede al sistema SICODI con correo y contraseña institucional&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-55">
           <mxGeometry x="65.57" y="172" width="188.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-55" source="4OVdlOTqd-Aykf6GKvNd-61" target="4OVdlOTqd-Aykf6GKvNd-63">
@@ -320,13 +320,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-102" value="&lt;div&gt;9.&amp;nbsp;&lt;/div&gt;&lt;div&gt;El participante recibe su documento a través del correo electrónico. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-102" value="&lt;div&gt;9.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Recibe su documento a través del correo electrónico. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
           <mxGeometry x="147.5" y="1368" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-99" source="4OVdlOTqd-Aykf6GKvNd-106" target="4OVdlOTqd-Aykf6GKvNd-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-106" value="&lt;div&gt;9. 1.A&lt;br&gt;&lt;/div&gt;&lt;div&gt;El participante visualiza el documento emitido a su nombre&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-106" value="&lt;div&gt;9. 1.A&lt;br&gt;&lt;/div&gt;&lt;div&gt;Visualiza el documento emitido a su nombre&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
           <mxGeometry x="220" y="1498" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.559;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-99" source="4OVdlOTqd-Aykf6GKvNd-102" target="4OVdlOTqd-Aykf6GKvNd-106">
@@ -335,19 +335,19 @@
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-99" source="4OVdlOTqd-Aykf6GKvNd-109" target="4OVdlOTqd-Aykf6GKvNd-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-109" value="&lt;div&gt;9. 1.B&lt;br&gt;&lt;/div&gt;&lt;div&gt;Participante recibe correo electrónico para acceder como &quot;Beneficiario&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-109" value="&lt;div&gt;9. 1.B&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibe correo electrónico para acceder como &quot;Beneficiario&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
           <mxGeometry x="50" y="1540" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-99" source="4OVdlOTqd-Aykf6GKvNd-111" target="4OVdlOTqd-Aykf6GKvNd-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-111" value="&lt;div&gt;9. 1.B.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;Participante accede al sistema con las credenciales proporcionadas&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-111" value="&lt;div&gt;9. 1.B.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;Accede al sistema con las credenciales proporcionadas&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
           <mxGeometry x="50" y="1648" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-99" source="4OVdlOTqd-Aykf6GKvNd-113" target="4OVdlOTqd-Aykf6GKvNd-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-113" value="&lt;div&gt;9. 1.B.2&lt;br&gt;&lt;/div&gt;&lt;div&gt;Participante visualiza el/los documento(s) emitidos a su nombre.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-113" value="&lt;div&gt;9. 1.B.2&lt;br&gt;&lt;/div&gt;&lt;div&gt;Visualiza el/los documento(s) emitidos a su nombre.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
           <mxGeometry x="50" y="1788" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4OVdlOTqd-Aykf6GKvNd-80" target="4OVdlOTqd-Aykf6GKvNd-102">
@@ -377,7 +377,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-122" value="Usuario &quot;Beneficiario&quot; solo accede al SICODI para poder visualizar de los documentos emitidos a su nombre" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=17;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="1975" width="170" height="90" as="geometry" />
+          <mxGeometry x="1570" y="2020" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
