@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.5">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1160" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,16 +308,15 @@
           <mxGeometry x="180" y="1898" width="80" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-99" source="4OVdlOTqd-Aykf6GKvNd-102" target="4OVdlOTqd-Aykf6GKvNd-109">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="1458" />
+              <mxPoint x="110" y="1458" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-102" value="&lt;div&gt;9.&amp;nbsp;&lt;/div&gt;&lt;div&gt;El participante recibe su documento a través del correo electrónico. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
           <mxGeometry x="147.5" y="1368" width="145" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-99" source="4OVdlOTqd-Aykf6GKvNd-104" target="4OVdlOTqd-Aykf6GKvNd-102">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4OVdlOTqd-Aykf6GKvNd-104" value="Documento puede ser: Constancias, Nombramiento, Cumplimiento, entre otros." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
-          <mxGeometry x="270" y="1118" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-99" source="4OVdlOTqd-Aykf6GKvNd-106" target="4OVdlOTqd-Aykf6GKvNd-100">
           <mxGeometry relative="1" as="geometry" />
@@ -332,25 +331,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-109" value="&lt;div&gt;9. 1.B&lt;br&gt;&lt;/div&gt;&lt;div&gt;Participante recibe correo electrónico para acceder como &quot;Beneficiario&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
-          <mxGeometry x="50" y="1498" width="120" height="70" as="geometry" />
+          <mxGeometry x="50" y="1540" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-99" source="4OVdlOTqd-Aykf6GKvNd-111" target="4OVdlOTqd-Aykf6GKvNd-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-111" value="&lt;div&gt;9. 1.B.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;Participante accede al sistema con las credenciales proporcionadas&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
-          <mxGeometry x="50" y="1628" width="120" height="70" as="geometry" />
+          <mxGeometry x="50" y="1648" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4OVdlOTqd-Aykf6GKvNd-99" source="4OVdlOTqd-Aykf6GKvNd-113" target="4OVdlOTqd-Aykf6GKvNd-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-113" value="&lt;div&gt;9. 1.B.2&lt;br&gt;&lt;/div&gt;&lt;div&gt;Participante visualiza el/los documento(s) emitidos a su nombre.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4OVdlOTqd-Aykf6GKvNd-99">
-          <mxGeometry x="50" y="1738" width="120" height="70" as="geometry" />
+          <mxGeometry x="50" y="1788" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4OVdlOTqd-Aykf6GKvNd-80" target="4OVdlOTqd-Aykf6GKvNd-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4OVdlOTqd-Aykf6GKvNd-116" value="Diagrama si solo la Dirección tiene acceso como Administrador de Espacio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2270" y="64" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-104" value="Documento puede ser: Constancias, Nombramiento, Cumplimiento, entre otros." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=21;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="1170" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="4OVdlOTqd-Aykf6GKvNd-104" target="4OVdlOTqd-Aykf6GKvNd-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="4OVdlOTqd-Aykf6GKvNd-120" target="4OVdlOTqd-Aykf6GKvNd-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3160" y="1760" />
+              <mxPoint x="3160" y="1687" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4OVdlOTqd-Aykf6GKvNd-120" value="Usuario &quot;Beneficiario&quot; solo accede al SICODI para poder visualizar de los documentos emitidos a su nombre" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=17;" vertex="1" parent="1">
+          <mxGeometry x="3420" y="1730" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
